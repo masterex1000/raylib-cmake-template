@@ -18,6 +18,8 @@ projects with little to no modification. Its especially useful if you're buildin
 
 From the root project directory run
 
+(Note: you may need to delete libs/raylib before running)
+
 ```bash
 git init # If not already initalized
 git submodule add --depth 1 -- https://github.com/raysan5/raylib libs/raylib
