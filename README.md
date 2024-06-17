@@ -12,7 +12,7 @@ file structure or project paradigm, its just a working, runable project.
 
 This can be safely removed. It is just a small library I threw together that makes dealing with
 rectangle transformations a bit easier, and have ended up using it over and over again in most of my
-projects with little to no modification. Its especially usefull if you're building something with raygui.
+projects with little to no modification. Its especially useful if you're building something with raygui.
 
 ## First Time Setup
 
